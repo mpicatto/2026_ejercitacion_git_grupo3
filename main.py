@@ -44,7 +44,7 @@ def menu():
             print(" Saliendo...")
             break
         else:
-            print("❌ Opción inválida\n")
+            print(" Opción inválida\n")
 
 
 if __name__ == "__main__":
